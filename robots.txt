@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eryperyd.github.io/sitemap
+Sitemap: https://eryperyd.github.io/app/sitemap
+Sitemap: https://eryperyd.github.io/assets/sitemap
+Sitemap: https://eryperyd.github.io/css/sitemap
+Sitemap: https://eryperyd.github.io/includes/sitemap
+Sitemap: https://eryperyd.github.io/item/sitemap
+Sitemap: https://eryperyd.github.io/src/sitemap
